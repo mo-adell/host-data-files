@@ -13,8 +13,8 @@ Feb,Wed,0
 Feb,Thurs,0
 Feb,Fri,2
 Feb,Sat,9
-Mar,Sun,15
-Mar,Mon,13
+Mar,Sun,0
+Mar,Mon,3
 Mar,Tue,0
 Mar,Wed,2
 Mar,Thurs,1
@@ -40,11 +40,11 @@ June,Tue,1
 June,Wed,2
 June,Thurs,13
 June,Fri,1
-June,Sat,1
+June,Sat,0
 July,Sun,3
 July,Mon,2
 July,Tue,1
-July,Wed,15
+July,Wed,0
 July,Thurs,3
 July,Fri,2
 July,Sat,1
@@ -61,7 +61,7 @@ Sep,Tue,2
 Sep,Wed,2
 Sep,Thurs,3
 Sep,Fri,7
-Sep,Sat,14
+Sep,Sat,0
 Oct,Sun,1
 Oct,Mon,8
 Oct,Tue,5
@@ -73,7 +73,7 @@ Nov,Sun,1
 Nov,Mon,0
 Nov,Tue,2
 Nov,Wed,1
-Nov,Thurs,7
+Nov,Thurs,0
 Nov,Fri,3
 Nov,Sat,4
 Dec,Sun,1
